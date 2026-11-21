@@ -47,5 +47,7 @@ sus propios archivos de licencia. Los paquetes APT conservan sus licencias.
 ## Imágenes
 
 Los cuatro fondos se generaron para esta personalización y forman parte del
-escritorio instalado. Esta publicación no incluye la vista conceptual ni capturas
-o vídeos de presentación.
+escritorio instalado. Las capturas reales de `assets/capturas/` y el
+videotutorial adjunto a la entrega `tutorial-2026-11-22` fueron facilitados por
+W4lterSec. Los programas, fondos y marcas que aparecen en la grabación conservan
+los derechos de sus respectivos titulares. No se incluye la vista conceptual.

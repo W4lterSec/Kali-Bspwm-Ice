@@ -1,7 +1,14 @@
 # Recursos de presentación
 
-Esta primera publicación no incluye imágenes conceptuales, capturas ni vídeos.
-Las fotos y grabaciones reales se incorporarán después del tutorial.
+Capturas reales de W4lterSec en Kali Linux 2026.3 dentro de VirtualBox:
 
-Los cuatro fondos de `wallpapers/` y las fuentes de `fonts/` son recursos del
-escritorio instalado y se conservan para que la instalación desde Git funcione.
+- `capturas/escritorio.png`: escritorio y barra Polybar.
+- `capturas/terminales.png`: ventanas en mosaico e información del sistema.
+- `capturas/transparencia.png`: acabado Glass y bordes de Kitty.
+
+Se conservan las capturas originales. El videotutorial se publica como archivo
+adjunto de la entrega `tutorial-2026-11-22`, enlazada desde el README y la guía.
+El vídeo no forma parte de los archivos descargados por `git clone`.
+
+Los fondos de `wallpapers/` y las fuentes de `fonts/` son recursos funcionales
+del escritorio instalado y permanecen dentro del proyecto.

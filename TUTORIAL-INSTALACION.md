@@ -1,7 +1,13 @@
 # Instalar Kali-Bspwm-Ice desde Git
 
 Guía en español de W4lterSec para seguir la instalación y preparar un tutorial.
-Esta edición utiliza texto y comandos. Las capturas y vídeos reales se añadirán después.
+Acompaña los pasos con el [videotutorial de instalación de W4lterSec](https://github.com/W4lterSec/Kali-Bspwm-Ice/releases/tag/tutorial-2026-11-22).
+
+[![Vista del escritorio instalado](assets/capturas/escritorio.png)](https://github.com/W4lterSec/Kali-Bspwm-Ice/releases/tag/tutorial-2026-11-22)
+
+[Abrir o descargar el vídeo completo · MP4 · 3:55](https://github.com/W4lterSec/Kali-Bspwm-Ice/releases/download/tutorial-2026-11-22/Tutorial-Kali-Ice.mp4).
+El vídeo muestra la descarga desde GitHub, la instalación, el cambio de sesión
+y el uso del escritorio. Las capturas del resultado están en el README.
 
 ## Preparar Kali
 
@@ -152,5 +158,6 @@ utiliza la instantánea previa del hipervisor.
 7. Mostrar cómo se vuelve a Xfce y dónde están las copias de configuración.
 
 Utiliza resultados de tu propia instalación. Si un paso falla, documenta el error
-y su solución antes de presentarlo como completado. Las capturas y vídeos se
-añadirán al repositorio cuando estén preparados.
+y su solución antes de presentarlo como completado. El videotutorial y las
+capturas publicados acompañan esta guía; las comprobaciones de hardware dependen
+de cada equipo.

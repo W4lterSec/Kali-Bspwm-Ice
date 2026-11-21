@@ -10,8 +10,8 @@ Personalización mantenida por **[W4lterSec](https://github.com/W4lterSec)**.
 ## Estado
 
 Configuración probada por su mantenedor en Kali Linux dentro de VirtualBox:
-ocho dragones centrados, ventanas estables y transparencia suave. Las capturas
-y los vídeos de la instalación se incorporarán posteriormente.
+ocho dragones centrados, ventanas estables y transparencia suave. Más abajo
+se incluyen el videotutorial y las capturas de la instalación real.
 
 Glass utiliza un 90 % de opacidad uniforme mediante Picom. Kitty conserva su
 fondo nativo opaco para evitar el error de transparencia observado en la VM.
@@ -22,6 +22,32 @@ El paquete conserva los directorios internos `kali-dragon-ice` y los atajos de
 la base validada. Los ocho escritorios se representan mediante el dragón Kali,
 con la fuente Hack Nerd Font Propo y márgenes simétricos. Los atajos 9 y 0 se
 conservan en el archivo original, aunque esta edición tiene ocho escritorios.
+
+## Videotutorial y capturas reales
+
+[![Escritorio Kali-Bspwm-Ice con barra Polybar y ocho escritorios](assets/capturas/escritorio.png)](https://github.com/W4lterSec/Kali-Bspwm-Ice/releases/tag/tutorial-2026-11-22)
+
+**[Ver o descargar el videotutorial de instalación · MP4 · 3:55 · 392 MB](https://github.com/W4lterSec/Kali-Bspwm-Ice/releases/download/tutorial-2026-11-22/Tutorial-Kali-Ice.mp4)**
+
+Grabación de W4lterSec: descarga desde GitHub, instalación desde Xfce, cambio
+de sesión y demostración del escritorio bspwm. El vídeo se distribuye aparte
+para que `git clone` descargue únicamente el proyecto y sus capturas.
+
+<details>
+<summary>Galería: terminales en mosaico y transparencia</summary>
+
+### Terminales en mosaico
+
+![Terminales con información de Kali, recursos del sistema y efecto Matrix](assets/capturas/terminales.png)
+
+### Transparencia y bordes
+
+![Ventana Kitty mostrando el fondo a través del acabado Glass](assets/capturas/transparencia.png)
+
+</details>
+
+La galería muestra una instalación real de Kali Linux 2026.3 en VirtualBox.
+Las imágenes conservan su resolución original; puedes abrirlas para ver los detalles.
 
 ## Qué incluye
 
@@ -209,8 +235,8 @@ para la instalación; no sustituyen la prueba del compositor, audio y hardware.
 
 Las pruebas verifican los atajos originales, las ocho áreas de trabajo, el ancho
 del glifo Kali, el renderizado de los perfiles, la integridad de las imágenes y
-la instalación/restauración en un directorio temporal. GitHub Actions ejecuta
-las pruebas Python y comprueba la sintaxis de los scripts Bash.
+la instalación/restauración en un directorio temporal. Puedes ejecutarlas
+localmente con el comando indicado en la sección de diagnóstico.
 
 Para informar de un problema, incluye la versión de Kali, la resolución, el
 perfil de escala, el estilo y la salida de `bash doctor.sh`. Revisa los datos
@@ -229,6 +255,7 @@ sus propios derechos y licencias.
 - **Aditya Shakya (@adi1090x)**: trabajo original de Polybar/Rofi de la base.
 - **Oh My Zsh** y **romkatv/Powerlevel10k**: shell y prompt.
 - **Hack / Nerd Fonts**: fuentes y glifos; el dragón usa `U+F327`.
-- Cuatro fondos generados para esta personalización. Las capturas y los vídeos se incorporarán posteriormente.
+- Cuatro fondos generados para esta personalización.
+- **W4lterSec**: grabación del tutorial y capturas de la instalación real.
 
 Proyecto independiente; no es una distribución oficial de Kali Linux.
