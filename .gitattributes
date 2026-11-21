@@ -1,0 +1,10 @@
+* text=auto eol=lf
+*.sh text eol=lf
+*.py text eol=lf
+*.conf text eol=lf
+*.ini text eol=lf
+*.rasi text eol=lf
+bspwmrc text eol=lf
+sxhkdrc text eol=lf
+*.png binary
+*.ttf binary

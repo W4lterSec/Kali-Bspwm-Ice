@@ -1,0 +1,9 @@
+{
+  "base": "https://github.com/r1vs3c/auto-bspwm",
+  "original_sxhkd_sha256": "68666ac00f2bc5aee5fd81bcd709f5c45a27f693670efe4e1ac74f3affbb23cd",
+  "hotkeys": "original",
+  "workspace_icon": "U+F327 (Kali Linux, Nerd Font)",
+  "project": "Kali-Bspwm-Ice",
+  "repository": "https://github.com/W4lterSec/Kali-Bspwm-Ice",
+  "maintainer": "W4lterSec"
+}

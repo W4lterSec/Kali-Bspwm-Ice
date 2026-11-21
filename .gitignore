@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.zip
+*.log
+*.tmp
+*.backup
+*.bak
+config.ini.antes-iconos-*
+.DS_Store
+Thumbs.db
