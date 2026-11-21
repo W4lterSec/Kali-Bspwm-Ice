@@ -7,11 +7,36 @@ con sus atajos de bspwm, Kitty y Zsh conservados.
 
 Personalización mantenida por **[W4lterSec](https://github.com/W4lterSec)**.
 
+## Videotutorial
+
+Pulsa el botón de reproducción para ver el tutorial aquí mismo.
+Versión para web · 3:55 · instalación desde Git y demostración del escritorio.
+
+https://github.com/user-attachments/assets/f9e13e85-31d5-4f1e-939e-5c031bb5fd3b
+
+## Capturas del escritorio
+
+### Escritorio y barra Polybar
+
+![Escritorio Kali-Bspwm-Ice con ocho escritorios e indicadores de sistema](assets/capturas/escritorio.png)
+
+### Terminales en mosaico
+
+![Terminales con información de Kali, recursos del sistema y efecto Matrix](assets/capturas/terminales.png)
+
+### Transparencia y bordes
+
+![Ventana Kitty con acabado Glass y bordes redondeados](assets/capturas/transparencia.png)
+
+Capturas reales de Kali Linux 2026.3 en VirtualBox. Abre una imagen para verla
+a su resolución original. La [guía de instalación](TUTORIAL-INSTALACION.md)
+acompaña el videotutorial.
+
 ## Estado
 
 Configuración probada por su mantenedor en Kali Linux dentro de VirtualBox:
-ocho dragones centrados, ventanas estables y transparencia suave. Más abajo
-se incluyen el videotutorial y las capturas de la instalación real.
+ocho dragones centrados, ventanas estables y transparencia suave. El vídeo
+y las capturas anteriores muestran la instalación real.
 
 Glass utiliza un 90 % de opacidad uniforme mediante Picom. Kitty conserva su
 fondo nativo opaco para evitar el error de transparencia observado en la VM.
@@ -22,32 +47,6 @@ El paquete conserva los directorios internos `kali-dragon-ice` y los atajos de
 la base validada. Los ocho escritorios se representan mediante el dragón Kali,
 con la fuente Hack Nerd Font Propo y márgenes simétricos. Los atajos 9 y 0 se
 conservan en el archivo original, aunque esta edición tiene ocho escritorios.
-
-## Videotutorial y capturas reales
-
-[![Escritorio Kali-Bspwm-Ice con barra Polybar y ocho escritorios](assets/capturas/escritorio.png)](https://github.com/W4lterSec/Kali-Bspwm-Ice/releases/tag/tutorial-2026-11-22)
-
-**[Ver o descargar el videotutorial de instalación · MP4 · 3:55 · 392 MB](https://github.com/W4lterSec/Kali-Bspwm-Ice/releases/download/tutorial-2026-11-22/Tutorial-Kali-Ice.mp4)**
-
-Grabación de W4lterSec: descarga desde GitHub, instalación desde Xfce, cambio
-de sesión y demostración del escritorio bspwm. El vídeo se distribuye aparte
-para que `git clone` descargue únicamente el proyecto y sus capturas.
-
-<details>
-<summary>Galería: terminales en mosaico y transparencia</summary>
-
-### Terminales en mosaico
-
-![Terminales con información de Kali, recursos del sistema y efecto Matrix](assets/capturas/terminales.png)
-
-### Transparencia y bordes
-
-![Ventana Kitty mostrando el fondo a través del acabado Glass](assets/capturas/transparencia.png)
-
-</details>
-
-La galería muestra una instalación real de Kali Linux 2026.3 en VirtualBox.
-Las imágenes conservan su resolución original; puedes abrirlas para ver los detalles.
 
 ## Qué incluye
 
