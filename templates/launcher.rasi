@@ -1,0 +1,20 @@
+configuration {
+    font: "DejaVu Sans Mono @ROFIFONT@";
+    show-icons: false;
+    display-drun: "Aplicaciones";
+    drun-display-format: "{name}";
+}
+* {
+    background-color: #08121a;
+    text-color: #e7f4fa;
+    border-color: #25d9f8;
+}
+window { width: @ROFIWIDTH@px; border: @BORDER@px; border-radius: @CORNERRADIUS@px; padding: @ROFIPADDING@px; }
+mainbox { spacing: @ROFISPACING@px; }
+inputbar { children: [ prompt, entry ]; spacing: @ROFISPACING@px; padding: @ROFIPADDING@px; }
+prompt { text-color: #73e5ff; }
+entry { placeholder: "Buscar..."; }
+listview { lines: 7; scrollbar: false; spacing: @ROFISPACING@px; }
+element { padding: @ROFIPADDING@px; border-radius: @ELEMENTRADIUS@px; }
+element selected.normal { background-color: #126a85; text-color: #ffffff; }
+element-text { background-color: inherit; text-color: inherit; }
