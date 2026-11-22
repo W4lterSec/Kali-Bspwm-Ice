@@ -10,9 +10,9 @@ Personalización mantenida por **[W4lterSec](https://github.com/W4lterSec)**.
 ## Videotutorial
 
 Pulsa el botón de reproducción para ver el tutorial aquí mismo.
-Versión para web · 3:55 · instalación desde Git y demostración del escritorio.
+Versión para web sin audio · 3:55 · instalación desde Git y demostración del escritorio.
 
-https://github.com/user-attachments/assets/f9e13e85-31d5-4f1e-939e-5c031bb5fd3b
+https://github.com/user-attachments/assets/301de715-bad1-4551-9d82-bae35d23c713
 
 ## Capturas del escritorio
 

@@ -5,9 +5,9 @@ Guía en español de W4lterSec para seguir la instalación y preparar un tutoria
 
 Pulsa el reproductor para seguir la instalación sin salir de esta página.
 
-https://github.com/user-attachments/assets/f9e13e85-31d5-4f1e-939e-5c031bb5fd3b
+https://github.com/user-attachments/assets/301de715-bad1-4551-9d82-bae35d23c713
 
-Duración: 3:55. Descarga desde GitHub, instalación desde Xfce, cambio de sesión
+Vídeo sin audio. Duración: 3:55. Descarga desde GitHub, instalación desde Xfce, cambio de sesión
 y uso del escritorio. [Ver las tres capturas del resultado](README.md#capturas-del-escritorio).
 
 ## Preparar Kali
